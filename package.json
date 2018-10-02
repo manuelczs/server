@@ -1,0 +1,26 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "node server",
+  "main": "ej11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelczs/server.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Manuel Cañizares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelczs/server/issues"
+  },
+  "homepage": "https://github.com/manuelczs/server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
